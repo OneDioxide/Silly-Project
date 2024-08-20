@@ -1,1 +1,1 @@
-Status: <span style="color: red;">**UNSTABLE**</span>
+Status: https://placehold.it/150/ffffff/ff0000?text=hello
