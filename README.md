@@ -1,1 +1,4 @@
-Status: https://placehold.it/150/ffffff/ff0000?text=hello
+Status: **UNSTABLE**
+
+Currently developed feature: **AUTO TURRET**
+Possible Bug: **SOUNDROOM**
